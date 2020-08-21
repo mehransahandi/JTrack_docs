@@ -24,6 +24,7 @@ author = 'Mehran Sahandi Far'
 # The full version, including alpha/beta/rc tags
 release = '2.0'
 
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
