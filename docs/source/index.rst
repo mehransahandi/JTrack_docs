@@ -6,7 +6,7 @@
 Welcome to JuTrack Platform
 ==============================================
 
-![JuTrack-Social](https://jutrack-docs.readthedocs.io/en/latest/_images/logo-social.png)
+
 
 JuTrack is a platform for remote assessments of an individual's data in situ using smartphones.
 JuTrack is more than a single application, you can create, manage a study and, share your collected data using one platform.
