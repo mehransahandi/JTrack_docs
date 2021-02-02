@@ -1,3 +1,3 @@
-# JuTrack Platform
-  Documentation for JuTrack Platform.
+# JTrack Platform
+  Documentation for JTrack Platform.
   https://jutrack-docs.readthedocs.io/en/latest/
