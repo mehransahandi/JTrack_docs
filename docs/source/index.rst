@@ -37,6 +37,7 @@ JTrack platform includes:
    :maxdepth: 2
 
    JuTrack_Social
+   JTrack_Dashboard
    JuServer
    developers
     
