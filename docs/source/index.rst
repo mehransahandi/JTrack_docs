@@ -36,9 +36,9 @@ JTrack platform includes:
 .. toctree::
    :maxdepth: 2
 
-   JuTrack_Social
+   JTrack_Social
    JTrack_Dashboard
-   JuServer
+   JServer
    developers
     
 
